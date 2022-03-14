@@ -23,11 +23,11 @@ bot.hears('🔥 Etherscan Contract',(ctx)=>{
 })
 
 bot.hears('🌐 Website',(ctx)=>{
-    ctx.telegram.sendMessage(ctx.chat.id , `Website: \nhttps://holycoin.exchange/`)
+    ctx.telegram.sendMessage(ctx.chat.id , `Website: \nhttps://holycoin.exchange/?fbclid=IwAR3sYVKxPEHcLanT71NLXyWAn4s9GhvqbhWGS45ns3B9JiYMnC7B7q97BJU`)
 })
 
 bot.hears('💌 Social Media',(ctx)=>{
-    ctx.telegram.sendMessage(ctx.chat.id , `Facebook: \nhttps://www.facebook.com/Holycoin-Holy-103989312250431/`)
+    ctx.telegram.sendMessage(ctx.chat.id , `Facebook: \nhttps://www.facebook.com/Holycoin-Holy-103989312250431/ \n\nTwitter: \nhttps://twitter.com/Holycoinholy?fbclid=IwAR1fDYyu1BFyl8jTmQIqYMhwxzAurSX0KKzwy0Oai8jh1vSZM5fLa1ZbP2k`)
 })
 
 
